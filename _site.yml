@@ -7,4 +7,6 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Janky projects"
+      href: janky.html
       
